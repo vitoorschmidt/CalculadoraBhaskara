@@ -1,5 +1,4 @@
-document.getElementById('form').addEventListener('submit', function(event) {
-    event.preventDefault();
+document.getElementById('form');
 
     const a = parseFloat(document.getElementById('a').value);
     const b = parseFloat(document.getElementById('b').value);
